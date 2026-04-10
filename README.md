@@ -5,7 +5,8 @@
 <div align="center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> It's me😊 </h2>  
     <div style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
-        저는 끊임없이 성장 가능한 개발자입니다.
+        저는 끊임없이 성장 가능한 개발자가 되고 싶습니다. <br>
+        뭐든 배울려는 자세로 임하고 있습니다.
     </div> 
 </div>
 
@@ -30,7 +31,8 @@
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
         <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
-        <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
+        <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white">
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
     </div>
 </div>
 
