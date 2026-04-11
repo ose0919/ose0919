@@ -2,16 +2,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7be2ea,100:c973e8&height=120&text=Hi!%20I'm%20Seeun&fontColor=ffffff&fontSize=70" />
 </div>
 
-<div align="center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> It's me😊 </h2>  
-    <div style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
-        저는 끊임없이 성장 가능한 개발자가 되고 싶습니다. <br>
-        뭐든 배울려는 자세로 임하고 있습니다.
-    </div> 
-</div>
-
-<br>
-
 <div align="center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> 
     <br> 
