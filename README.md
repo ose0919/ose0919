@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7be2ea,100:c973e8&height=120&text=Hi!%20I'm%20Seeun&fontColor=ffffff&fontSize=70" />
+    <h1 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> HI, I'm seeun ♪(^∇^*) </h1> 
 </div>
 
 <div align="center">
@@ -7,7 +7,6 @@
     <br> 
     <div>
         <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
         <br/>
